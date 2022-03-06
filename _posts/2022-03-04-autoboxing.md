@@ -1,6 +1,6 @@
 ---
 layout: post
-title: [이펙티브 자] 불필요한 객체 생성 줄이기 & autoboxing 
+title:  이펙티브자바 -불필요한 객체 생성 줄이기 & autoboxing 
 date:  2022-03-04 17:00
 img: websecurity.png # Add image post (optional)
 categories: [study]
